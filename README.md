@@ -1,0 +1,1 @@
+Olá! Eu sou Pedro Daniel, desenvolvedor web apaixonado por programação. Com 3 anos de ensino técnico em informática no Instituto Federal Catarinense, 2 anos de experiência profissional e 1 ano de experiência acadêmica no Bacharelado em Ciência da Computação
